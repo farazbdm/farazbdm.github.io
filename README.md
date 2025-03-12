@@ -1,5 +1,7 @@
 # farazbdm.github.io
 
+* TOC {:toc}
+# TOC {:toc}
 # Heading 1
 
 ## Heading 2
